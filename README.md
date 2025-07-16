@@ -26,14 +26,16 @@ Federated
 You can refer to the user_sample.csv template for a complete list of supported fields.
 
 Here’s a sample preview of users generated via the Faker library:
+
+
 ![alt text](https://github.com/shivangpandya/oci-iam-bulk-user-management/blob/main/Testusers.png?raw=true)
 
 
  
 
- ​​
 
- 
+
+ 
 
 Step 2: Importing Users
 Once your CSV file is ready, use the Import Users feature to upload the data.
@@ -42,8 +44,8 @@ After the upload, users will automatically receive a login email at their respec
 
 
  
+ ![alt text](https://github.com/shivangpandya/oci-iam-bulk-user-management/blob/main/Importusers.png?raw=true)
 
- 
 
  
 
