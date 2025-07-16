@@ -26,6 +26,7 @@ Federated
 You can refer to the user_sample.csv template for a complete list of supported fields.
 
 Here’s a sample preview of users generated via the Faker library:
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/shivangpandya/oci-iam-bulk-user-management/blob/main/Testusers.png?raw=true)
 
 
  
@@ -68,6 +69,7 @@ This script can easily be modified to suit your environment or integrated into y
 
 As you can see it skips a certain set of users which are in the exclude list while deleting the  rest of the users.  The script can be modified to work according to the use case.
 
+![alt text](https://github.com/shivangpandya/oci-iam-bulk-user-management/blob/main/script-detail.png?raw=true)
 
 
  
