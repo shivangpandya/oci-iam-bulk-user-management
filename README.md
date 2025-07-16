@@ -26,7 +26,7 @@ Federated
 You can refer to the user_sample.csv template for a complete list of supported fields.
 
 Here’s a sample preview of users generated via the Faker library:
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/shivangpandya/oci-iam-bulk-user-management/blob/main/Testusers.png?raw=true)
+![alt text](https://github.com/shivangpandya/oci-iam-bulk-user-management/blob/main/Testusers.png?raw=true)
 
 
  
