@@ -1,5 +1,5 @@
 # oci-iam-bulk-user-management
-Management of bulk users through shell scripting
+
 ​
 There are times when you need to import many users into your system. Whether it’s for testing purposes, running a hackathon, or migrating users from another platform, having an efficient way to handle bulk user operations is essential—especially in enterprise environments.
 
