@@ -1,7 +1,7 @@
 # oci-iam-bulk-user-management
 
 ​
-There are times when you need to import many users into your system. Whether it’s for testing purposes, running a hackathon, or migrating users from another platform, having an efficient way to handle bulk user operations is essential—especially in enterprise environments.
+There are times when you need to import many Local users into your system instead of using methods from the Identity providers like Okta. Whether it’s for testing purposes, running a hackathon. Having an efficient way to handle bulk user operations is essential—especially in enterprise environments.
 
  For an overview of the different methods available for bulk user import, refer to other  comprehensive blogs like this one or our Oracle documentation for OCI IAM with Identity domains .
 
